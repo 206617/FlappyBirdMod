@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "CloneBuild.data.unityweb",
+"asmCodeUrl": "CloneBuild.asm.code.unityweb",
+"asmMemoryUrl": "CloneBuild.asm.memory.unityweb",
+"asmFrameworkUrl": "CloneBuild.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
